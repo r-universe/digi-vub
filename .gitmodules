@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "image.binarization"]
+	path = image.binarization
+	url = https://github.com/digi-vub/image.binarization
+	shallow = true
+[submodule "image.textlinedetector"]
+	path = image.textlinedetector
+	url = https://github.com/digi-vub/image.textlinedetector
+	shallow = true
+[submodule "text.alignment"]
+	path = text.alignment
+	url = https://github.com/digi-vub/text.alignment
+	shallow = true
