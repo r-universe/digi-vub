@@ -7,11 +7,14 @@
 	path = image.binarization
 	url = https://github.com/digi-vub/image.binarization
 	shallow = true
+	registered = true
 [submodule "image.textlinedetector"]
 	path = image.textlinedetector
 	url = https://github.com/digi-vub/image.textlinedetector
 	shallow = true
+	registered = true
 [submodule "text.alignment"]
 	path = text.alignment
 	url = https://github.com/digi-vub/text.alignment
 	shallow = true
+	registered = true
