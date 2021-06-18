@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "recogito",
+    "oncran": true
+  },
+  {
     "package": "text.alignment",
     "oncran": true
   }
