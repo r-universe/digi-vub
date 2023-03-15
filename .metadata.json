@@ -1,10 +1,10 @@
 [
   {
-    "package": "image.textlinedetector",
+    "package": "image.binarization",
     "oncran": true
   },
   {
-    "package": "text.alignment",
+    "package": "image.textlinedetector",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "image.binarization",
+    "package": "text.alignment",
     "oncran": true
   }
 ]
